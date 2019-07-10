@@ -12,6 +12,8 @@ tinydb = "*"
 flask-wtf = "*"
 flake8 = "*"
 flask-cors = "*"
+pymongo = "*"
+jupyter = "*"
 
 [requires]
 python_version = "3.7"
