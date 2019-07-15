@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/home/edgarrobles/.local/share/virtualenvs/server-XTAlYVp6/bin/python",
+    "python.pythonPath": "/home/edgar/.cache/pypoetry/virtualenvs/diseno-monterrey-gigNVw6U-py3.7/bin/python",
     "python.linting.pylintEnabled": false,
     "python.linting.enabled": true,
     "python.linting.pep8Enabled": false,
